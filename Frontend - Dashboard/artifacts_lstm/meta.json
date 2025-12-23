@@ -1,0 +1,12 @@
+{
+    "T": 5,
+    "num_cols": [
+        "Age",
+        "Balance",
+        "Tenure"
+    ],
+    "cat_cols": [
+        "Gender",
+        "Geography"
+    ]
+}
